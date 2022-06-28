@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\bin\Debug\netcoreapp3.1\SomaMedia.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\SomaMedia\SomaMedia\obj\Debug\netcoreapp3.1\SomaMedia.genruntimeconfig.cache
